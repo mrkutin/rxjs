@@ -1,0 +1,27 @@
+{
+  "name": "rxjs-tutorial",
+  "version": "1.0.0",
+  "description": "RxJS tutorial",
+  "main": "callbacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkutin/rxjs-tutorial.git"
+  },
+  "keywords": [
+    "rxjs",
+    "tutorial"
+  ],
+  "author": "mrkutin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkutin/rxjs-tutorial/issues"
+  },
+  "homepage": "https://github.com/mrkutin/rxjs-tutorial#readme",
+  "dependencies": {
+    "rxjs": "^6.5.4"
+  },
+  "devDependencies": {}
+}
